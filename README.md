@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @olatunji-weber
+- 👋 Hi, I’m Olatunji Olayinka
+- 💻 I'm training as a Google Cloud Engineer
 - 👀 I’m interested in using Python code to solve real world problems
 - 🌱 I’m currently learning how to use the Django Framework to create fantastic website and web apps. I am also learning how to consume APIs
 - 📫 How to reach me ... Email: olatunji.weber@gmail.com, Mobile: +2348062131456
