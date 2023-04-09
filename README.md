@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olatunji Olayinka
-- 💻 Google Cloud Engineer in Training
+- 💻 Python and Full stack Developer | Data Analyst | Cloud Enthusiast
 - 👀 I’m interested in using Python codes to solve real world problems
 - 🌱 Currently learning to use the Django Framework to better create fantastic website and web apps. Also learning how to consume APIs
 - 📫 How to reach me ... Email: olatunji.weber@gmail.com, Mobile: +27622552125
