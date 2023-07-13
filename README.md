@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olatunji Olayinka
-- 💻 Python and Django Developer | QA Testing | Cloud Enthusiast
+- 💻 Python and Django Developer | Data Visualization Developer | Cloud Enthusiast
 - 👀 I’m interested in using Python codes to solve real world problems
 - 🌱 Love to use the Django REST Framework to better create fantastic and highly functional website and web apps. Also learning how to consume APIs to create value
 
