@@ -5,7 +5,7 @@
 - 👀 I’m interested in using Python codes to solve real world problems
 - 🌱 Love to use the Django REST Framework to better create fantastic and highly functional website and web apps. Also learning how to consume APIs to create value
 
-<div align="left">- 📫 Reach me ...
+<div align="left">📫 Reach me ...
   <a href="https://www.linkedin.com/in/olatunji-olayinka-coder/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
