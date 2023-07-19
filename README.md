@@ -1,5 +1,6 @@
 <h1>HELLO WORLD....😉 </h1>
 
+<div align="left">
 <p align="center">
   <a href="https://www.linkedin.com/in/olatunji-olayinka-coder/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -8,6 +9,7 @@
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
+</div>
   
 
 - 👋 Hi, I’m Olatunji Olayinka
