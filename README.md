@@ -7,6 +7,9 @@
   <a href="https://twitter.com/YinkaCoder" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white" alt="Twitter">
   </a>
+  <a href="mailto:olatunji.weber@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=mail.ru&logoColor=white" alt="Email">
+  </a>
 </div>
   
 
