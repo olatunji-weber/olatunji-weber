@@ -1,5 +1,10 @@
 <h1>HELLO WORLD....😉 </h1>
 
+<a href="https://www.linkedin.com/in/olatunji-olayinka-coder/">
+    <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github" />
+  </a>
+  
+
 - 👋 Hi, I’m Olatunji Olayinka
 - 💻 Python and Django Developer | Data Visualization Developer | Cloud Enthusiast
 - 👀 I’m interested in using Python codes to solve real world problems
