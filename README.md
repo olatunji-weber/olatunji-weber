@@ -3,8 +3,8 @@
 <ul>
   <li>👋 Hi, I’m Olatunji Olayinka</li>
   <li>💻 Python and Django Developer | Data Visualization Developer | Cloud Enthusiast</li>
-  <li>👀 I’m interested in using Python codes to solve real world problems</li>
-  <li>🌱 Love to use the Django REST Framework to better create fantastic and highly functional website and web apps. Also learning how to consume APIs to create value</li>
+  <li>👀 I fundamentally use Python and Django codes to solve real world problems in order to create value</li>
+  <li>🎻 When not coding, I love to perform as a violinist</li>
 </ul>
 
 <hr />
