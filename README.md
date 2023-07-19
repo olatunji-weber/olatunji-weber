@@ -1,8 +1,13 @@
 <h1>HELLO WORLD....😉 </h1>
 
-<a href="https://www.linkedin.com/in/olatunji-olayinka-coder/">
-    <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/olatunji-olayinka-coder/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://twitter.com/YinkaCoder" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
   
 
 - 👋 Hi, I’m Olatunji Olayinka
