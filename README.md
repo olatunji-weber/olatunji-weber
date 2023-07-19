@@ -1,6 +1,11 @@
 <h1>HELLO WORLD....😉 </h1>
 
-<div align="left">
+- 👋 Hi, I’m Olatunji Olayinka
+- 💻 Python and Django Developer | Data Visualization Developer | Cloud Enthusiast
+- 👀 I’m interested in using Python codes to solve real world problems
+- 🌱 Love to use the Django REST Framework to better create fantastic and highly functional website and web apps. Also learning how to consume APIs to create value
+
+- 📫 Reach me ... <div align="left">
   <a href="https://www.linkedin.com/in/olatunji-olayinka-coder/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -11,14 +16,6 @@
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=mail.ru&logoColor=white" alt="Email">
   </a>
 </div>
-  
-
-- 👋 Hi, I’m Olatunji Olayinka
-- 💻 Python and Django Developer | Data Visualization Developer | Cloud Enthusiast
-- 👀 I’m interested in using Python codes to solve real world problems
-- 🌱 Love to use the Django REST Framework to better create fantastic and highly functional website and web apps. Also learning how to consume APIs to create value
-
-- 📫 Reach me ... Email: olatunji.weber@gmail.com, Twitter: https://twitter.com/YinkaCoder, LinkedIn: https://www.linkedin.com/in/olatunji-olayinka-coder/
 
 
 <!---
