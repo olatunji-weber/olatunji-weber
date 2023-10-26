@@ -2,7 +2,7 @@
 <br />
 <ul>
   <li>👋 Hi, I’m Olatunji Olayinka</li>
-  <li>💻 Python and Django Developer | Data Visualization Developer | Cloud Enthusiast</li>
+  <li>💻 Python and Django Developer | Data Visualization Developer | Cloud Engineer</li>
   <li>👀 I fundamentally use Python and Django codes to solve real world problems in order to create value</li>
   <li>🎻 When not coding, I love to perform as a violinist</li>
 </ul>
