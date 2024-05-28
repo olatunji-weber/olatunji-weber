@@ -48,6 +48,9 @@
 <!-- Google Cloud Platform Icon -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud Platform" width="50" height="50">
 
+<!-- Linux Icon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original-wordmark.svg" alt="Google Cloud Platform" width="50" height="50">
+
 <!-- Git Icon -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
 
