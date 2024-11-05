@@ -2,9 +2,9 @@
 <br />
 <ul>
   <li>👋 Hi, I’m Olatunji Olayinka</li>
-  <li>💻 Python and Django Developer | Data Visualization Developer | Cloud Engineer</li>
-  <li>👀 I fundamentally use Python and Django codes to solve real world problems in order to create value</li>
-  <li>🎻 When not coding, I love to perform as a violinist</li>
+  <li>💻 Python and Django Developer | AWS Certified Developer | Data Visualization Developer</li>
+  <li>👀 I fundamentally use Python, Django codes and AWS Cloud technologies to solve real world problems in order to create value</li>
+  <li>🎻 When not coding, I am a passionate Violinist 🎻🎻🕺🏿😃</li>
 </ul>
 
 <hr />
